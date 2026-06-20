@@ -269,5 +269,5 @@ A：请按照以下环境标准排查：
 
 如果你在激活或使用过程中遇到任何问题，通过以下方式联系：
 
-* 📢 **Telegram 频道**：[Giffgaff 使用指南频道](https://t.me/giffgaff_guide) （获取最新保号、接码与行业动态）
-* 📱 **Telegram 客服**：[@jjv2p](https://t.me/jjv2p) （联系送esim激活码）
+* 📢 **Telegram 频道**：[Giffgaff 使用指南频道](https://t.me/giffgaff_guide) 
+* 📱 **Telegram 客服**：[@jjv2p](https://t.me/jjv2p) （出售giffgaff实体卡或送esim激活码）
